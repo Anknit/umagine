@@ -47,7 +47,7 @@
 		<div class="bottom-footer">
 			<div class="mid-content clearfix">
 				<div  class="copy-right">
-					&copy; <?php echo date('Y')." "; bloginfo('name'); ?>  
+					&copy; <?php echo date('Y')." "; bloginfo('name'); ?> Software Private Ltd. 
 				</div><!-- .copy-right -->
 				<div class="site-info" style="display:none">
 				WordPress Theme:
